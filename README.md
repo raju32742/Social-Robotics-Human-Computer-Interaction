@@ -1,10 +1,12 @@
 # ECE-750-Project
-# Exploring Humanoid Robot Integration for Elder Care: A Study on Non-verbal Interaction and Health Monitoring with NAO
+<h1 align="center">Exploring Humanoid Robot Integration for Elder Care: A Study on Non-verbal Interaction and Health Monitoring with NAO</h1>
 
-S M Taslim Uddin Raju
-Department of Electrical and Computer Engineering
-University of Waterloo, Waterloo, ON, Canada
-smturaju@uwaterloo.ca
+<p align="center">
+  <strong>S M Taslim Uddin Raju</strong><br>
+  Department of Electrical and Computer Engineering<br>
+  University of Waterloo, Waterloo, ON, Canada<br>
+  Email: <a href="mailto:smturaju@uwaterloo.ca">smturaju@uwaterloo.ca</a>
+</p>
 
 <div style="text-align: justify;">
   <h3>1. Motivation</h3>
