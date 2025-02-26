@@ -25,11 +25,13 @@ Numerous studies have been done where humanoid robots are used for various disci
   <li><strong>RQ 3:</strong> What factors influence older people’s trust and acceptance of NAO as their companion and caregiver?</li>
 </ol>
 
-4.	Non-verbal Behavior: 
+<h3>4. Non-verbal Behavior: </h3>	
 In my project, I will plan to implement two non-verbal behaviors. 
 4.1 Non Verbal Behavior
-1)	Gesture: It involves hand and arm movements, body language, facial expressions, and eye movements.
-2)	Touch: It involved in physical contact or tactile interactions to convey messages or emotions.
+<ol>
+  <li>Gesture: It involves hand and arm movements, body language, facial expressions, and eye movements.</li>
+  <li> Touch: It involved in physical contact or tactile interactions to convey messages or emotions.</li>
+</ol>
      4.2 How Implement: 
 1)	Gesture: For gesture, I will NAO’s built-in gestures library, which includes a variety of hand and arm movements, eye movements for entertaining the older people.  
 2)	Touch: For touch, I will use NAO’s tactile sensors, which are located on its head. It can measure abnormal signs or symptoms. 
