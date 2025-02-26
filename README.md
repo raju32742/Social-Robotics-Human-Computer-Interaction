@@ -42,7 +42,7 @@ In my project, I will plan to implement two non-verbal behaviors.
 </ol>
 
 <h3>5. Pretend User Study (Study Design)  </h3>
-## Experimental Setup
+### Experimental Setup
 - The Webots simulation environment will be used to create a virtual caregiving scenario.
 - The simulated robot, NAO, will be programmed with gesture and touch interactions.
 
