@@ -81,11 +81,18 @@ In my project, I will plan to implement two non-verbal behaviors.
 I'll create a Google survey form and distribute it via email or social media to gather user feedback. The data will be analyzed by combining both qualitative and quantitative methodologies. Statistical methods will be utilized for quantitative analysis. A one-way ANOVA test will be applied to identify significant differences, like comparing means across multiple groups, allowing for an evaluation of how various situations impact respondents' experiences and perspectives. An independent sample t-test could assess any group differences in the second set of study questions, specifically focusing on respondents' opinions regarding touch interactions for health monitoring. Qualitative analysis will involve thematic analysis of open-ended survey questions to explore users' perspectives and experiences with humanoid-robot interaction
 
 
-References
-[1]	A. Robaczewski, J. Bouchard, K. Bouchard, and S. Gaboury, “Socially assistive robots: The specific case of the nao,” International Journal of Social Robotics, vol. 13, pp. 795–831, 2021. 
-[2]	A. Bonarini, “Communication in human-robot interaction,” Current Robotics Reports, vol. 1, pp. 279–285, 2020.
-[3]	S. Saunderson and G. Nejat, “How robots influence humans: A survey of nonverbal communication in social human–robot interaction,” International Journal of Social Robotics, vol. 11, pp. 575–608, 2019.
-[4]	N. Akalin, A. Kiselev, A. Kristoffersson, and A. Loutfi, “An evaluation tool of the effect of robots in eldercare on the sense of safety and security,” in Social Robotics: 9th International Conference, ICSR 2017, Tsukuba, Japan, November 22-24, 2017, Proceedings 9. Springer, 2017, pp. 628–637. 
-[5]	J. de Wit, A. Brandse, E. Krahmer, and P. Vogt, “Varied human-like gestures for social robots: Investigating the effects on children’s engagement and language learning,” in Proceedings of the 2020 ACM/IEEE international conference on human-robot interaction, 2020, pp. 359– 367.
-[6]	Y.-J. Liao, Y.-L. Jao, M. Boltz, O. T. Adekeye, D. Berish, F. Yuan, and X. Zhao, “Use of a humanoid robot in supporting dementia care: A qualitative analysis,” SAGE Open Nursing, vol. 9, p. 23779608231179528, 2023.
-[7]	J. Mišeikis, P. Caroni, P. Duchamp, A. Gasser, R. Marko, N. Miˇseikien ̇e, F. Zwilling, C. De Castelbajac, L. Eicher, M. Fr ̈uh et al., “Lio-a personal robot assistant for human-robot interaction and care applications,” IEEE Robotics and Automation Letters, vol. 5, no. 4, pp. 5339–5346, 2020. 
+## References
+[1] A. Robaczewski, J. Bouchard, K. Bouchard, and S. Gaboury, “Socially assistive robots: The specific case of the nao,” International Journal of Social Robotics, vol. 13, pp. 795–831, 2021.
+
+[2] A. Bonarini, “Communication in human-robot interaction,” Current Robotics Reports, vol. 1, pp. 279–285, 2020.
+
+[3] S. Saunderson and G. Nejat, “How robots influence humans: A survey of nonverbal communication in social human–robot interaction,” International Journal of Social Robotics, vol. 11, pp. 575–608, 2019.
+
+[4] N. Akalin, A. Kiselev, A. Kristoffersson, and A. Loutfi, “An evaluation tool of the effect of robots in eldercare on the sense of safety and security,” in Social Robotics: 9th International Conference, ICSR 2017, Tsukuba, Japan, November 22-24, 2017, Proceedings 9. Springer, 2017, pp. 628–637.
+
+[5] J. de Wit, A. Brandse, E. Krahmer, and P. Vogt, “Varied human-like gestures for social robots: Investigating the effects on children’s engagement and language learning,” in Proceedings of the 2020 ACM/IEEE international conference on human-robot interaction, 2020, pp. 359–367.
+
+[6] Y.-J. Liao, Y.-L. Jao, M. Boltz, O. T. Adekeye, D. Berish, F. Yuan, and X. Zhao, “Use of a humanoid robot in supporting dementia care: A qualitative analysis,” SAGE Open Nursing, vol. 9, p. 23779608231179528, 2023.
+
+[7] J. Mišeikis, P. Caroni, P. Duchamp, A. Gasser, R. Marko, N. Mišeičienė, F. Zwilling, C. De Castelbajac, L. Eicher, M. Früh et al., “Lio-a personal robot assistant for human-robot interaction and care applications,” IEEE Robotics and Automation Letters, vol. 5, no. 4, pp. 5339–5346, 2020.
+
