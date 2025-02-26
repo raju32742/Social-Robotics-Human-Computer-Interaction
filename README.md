@@ -40,11 +40,23 @@ In my project, I will plan to implement two non-verbal behaviors.
 </ol>
 
 <h3>5. Pretend User Study (Study Design)  </h3>
+## Experimental Setup
+- The Webots simulation environment will be used to create a virtual caregiving scenario.
+- The simulated robot, NAO, will be programmed with gesture and touch interactions.
 
-•	Experimental Setup: Webots simulation environment will be used to create a virtual caregiving scenario. The simulated robot, NAO will be programmed with gesture and touch interactions.
-•	Procedure: Each participant will interact with the virtual NAO robot in the virtual caregiving scenario. The robot will communicate with the virtual elderly through gestures and touch, and it will pretend to check their health. During a robot's entertainment gesture routine, if an elderly individual gives a "thumbs up," it signifies happiness, while a "thumbs down" indicates dissatisfaction, and a "halt" gesture signifies a request to stop. 
-•	Data Collection: Data will be collected on the frequency and types of gestures and touch interactions performed by the virtual NAO, along with participants' reactions. Quantitative data will be gathered through online forms, where participants rate the robot's gestures, touch interactions, and satisfaction. Qualitative data will capture participants' feelings and perceptions of NAO's behavior.
-Tentative Survey Questionnaire: 
+## Procedure
+- Each participant will interact with the virtual NAO robot in the virtual caregiving scenario.
+- The robot will communicate with the virtual elderly through gestures and touch, and it will pretend to check their health.
+- During the robot's entertainment gesture routine:
+  - If an elderly individual gives a "thumbs up," it signifies happiness.
+  - A "thumbs down" indicates dissatisfaction.
+  - A "halt" gesture signifies a request to stop.
+
+## Data Collection
+- Data will be collected on the frequency and types of gestures and touch interactions performed by the virtual NAO, along with participants' reactions.
+- Quantitative data will be gathered through online forms, where participants rate the robot's gestures, touch interactions, and satisfaction.
+- Qualitative data will capture participants' feelings and perceptions of NAO's behavior.
+
 Research Question 1: Perception of Gesture
 o	How satisfied are you with the gestures made by NAO during interactions?
                  1 (Strongly Dissatisfied) - 5 (Strongly Satisfied)
