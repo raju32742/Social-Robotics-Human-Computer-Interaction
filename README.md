@@ -1,5 +1,5 @@
 # ECE-750-Project
-Exploring Humanoid Robot Integration for Elder Care: A Study on Non-verbal Interaction and Health Monitoring with NAO
+# Exploring Humanoid Robot Integration for Elder Care: A Study on Non-verbal Interaction and Health Monitoring with NAO
 
 S M Taslim Uddin Raju
 Department of Electrical and Computer Engineering
