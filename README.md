@@ -58,7 +58,7 @@ In my project, I will plan to implement two non-verbal behaviors.
 - Quantitative data will be gathered through online forms, where participants rate the robot's gestures, touch interactions, and satisfaction.
 - Qualitative data will capture participants' feelings and perceptions of NAO's behavior.
 
-## Research Questions
+### Research Questions
 
 ### Research Question 1: Perception of Gesture
 - **Question:** How satisfied are you with the gestures made by NAO during interactions?
