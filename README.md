@@ -42,6 +42,7 @@ In my project, I will plan to implement two non-verbal behaviors.
 </ol>
 
 <h3>5. Pretend User Study (Study Design)  </h3>
+
 ### Experimental Setup
 - The Webots simulation environment will be used to create a virtual caregiving scenario.
 - The simulated robot, NAO, will be programmed with gesture and touch interactions.
@@ -59,16 +60,22 @@ In my project, I will plan to implement two non-verbal behaviors.
 - Quantitative data will be gathered through online forms, where participants rate the robot's gestures, touch interactions, and satisfaction.
 - Qualitative data will capture participants' feelings and perceptions of NAO's behavior.
 
-Research Question 1: Perception of Gesture
-o	How satisfied are you with the gestures made by NAO during interactions?
-                 1 (Strongly Dissatisfied) - 5 (Strongly Satisfied)
-Research Question 2: Effectiveness of touch interaction for health monitoring
-o	How confident are you in NAO's ability to accurately measure your health through touch interactions?
-      1 (Not Confident at all) - 5 (Very Confident)
-Research Question 3: Trust in NAO and concerns about safety
-o	How much do you trust NAO to prioritize your safety during interactions?
-            1 (Not at all) - 5 (Completely)
-•	Ethical Considerations: As this is a virtual simulation, ethical considerations will be different but still significant. Participants should still provide informed consent and maintain privacy.
+## Research Questions
+
+### Research Question 1: Perception of Gesture
+- **Question:** How satisfied are you with the gestures made by NAO during interactions?
+  - **Scale:** 1 (Strongly Dissatisfied) - 5 (Strongly Satisfied)
+
+### Research Question 2: Effectiveness of touch interaction for health monitoring
+- **Question:** How confident are you in NAO's ability to accurately measure your health through touch interactions?
+  - **Scale:** 1 (Not Confident at all) - 5 (Very Confident)
+
+### Research Question 3: Trust in NAO and concerns about safety
+- **Question:** How much do you trust NAO to prioritize your safety during interactions?
+  - **Scale:** 1 (Not at all) - 5 (Completely)
+
+### Ethical Considerations
+- As this is a virtual simulation, ethical considerations will be different but still significant. Participants should still provide informed consent and maintain privacy.
 
 <h3>6.	Data Analysis </h3>
 I'll create a Google survey form and distribute it via email or social media to gather user feedback. The data will be analyzed by combining both qualitative and quantitative methodologies. Statistical methods will be utilized for quantitative analysis. A one-way ANOVA test will be applied to identify significant differences, like comparing means across multiple groups, allowing for an evaluation of how various situations impact respondents' experiences and perspectives. An independent sample t-test could assess any group differences in the second set of study questions, specifically focusing on respondents' opinions regarding touch interactions for health monitoring. Qualitative analysis will involve thematic analysis of open-ended survey questions to explore users' perspectives and experiences with humanoid-robot interaction
