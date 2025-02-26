@@ -27,14 +27,20 @@ Numerous studies have been done where humanoid robots are used for various disci
 
 <h3>4. Non-verbal Behavior: </h3>	
 In my project, I will plan to implement two non-verbal behaviors. 
-4.1 Non Verbal Behavior
+
+<h4>4.1 Non Verbal Behavior: </h4>	 
 <ol>
-  <li>Gesture: It involves hand and arm movements, body language, facial expressions, and eye movements.</li>
-  <li> Touch: It involved in physical contact or tactile interactions to convey messages or emotions.</li>
+  <li><strong>Gesture:</strong> It involves hand and arm movements, body language, facial expressions, and eye movements.</li>
+  <li> <strong>Touch:</strong> It involved in physical contact or tactile interactions to convey messages or emotions.</li>
 </ol>
-     4.2 How Implement: 
-1)	Gesture: For gesture, I will NAO’s built-in gestures library, which includes a variety of hand and arm movements, eye movements for entertaining the older people.  
-2)	Touch: For touch, I will use NAO’s tactile sensors, which are located on its head. It can measure abnormal signs or symptoms. 
+   <h4> 4.2 How Implement: </h4>	  
+1)	 
+2)	
+
+<ol>
+  <li><strong>Gesture:</strong> For gesture, I will NAO’s built-in gestures library, which includes a variety of hand and arm movements, eye movements for entertaining the older people. </li>
+  <li> <strong>Touch:</strong> For touch, I will use NAO’s tactile sensors, which are located on its head. It can measure abnormal signs or symptoms. </li>
+</ol>
 
 5.	Pretend User Study (Study Design)  
 •	Experimental Setup: Webots simulation environment will be used to create a virtual caregiving scenario. The simulated robot, NAO will be programmed with gesture and touch interactions.
