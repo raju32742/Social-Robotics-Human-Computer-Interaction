@@ -18,13 +18,12 @@ Human-robot interaction (HRI) has emerged as a rapidly expanding discipline that
 
 Numerous studies have been done where humanoid robots are used for various disciplinary fields through non-verbal cues. Akalin et al. [4] demonstrated the effectiveness of a robot designed for elder care in terms of security and safety. A Pepper robot with nonverbal gestures like arm gestures and head nodding was used. In another study, NAO [5] robots used iconic gestures to support children's language learning. In [6], the authors used the Pepper robot to assist people with dementia in assessing the perceptions of care partners and healthcare workers. Mišeikis et al. [7] presented how Lio can be used for personal assistance and care applications. These studies motivated me to use humanoid robots like NAO for older caregivers for companion and healthcare monitoring.
 
-3.	Research Question(s)
-1)	RQ 1: How the participants perceive when robot NAO touches to monitor the participant’s health? 
-2)	
-3)	
-4)	How do older people feel and respond when NAO uses gestures to communicate with them?
-5)	RQ 2: How well can NAO monitor and report the health status of older people by touching them?
-6)	RQ 3: What factors influence older people’s trust and acceptance of NAO as their companion and caregiver?
+<h3>3. Research Question(s)</h3>
+<ol>
+  <li><strong>RQ 1:</strong> How do participants perceive when robot NAO touches to monitor the participant’s health?</li>
+  <li><strong>RQ 2:</strong> How well can NAO monitor and report the health status of older people by touching them?</li>
+  <li><strong>RQ 3:</strong> What factors influence older people’s trust and acceptance of NAO as their companion and caregiver?</li>
+</ol>
 
 4.	Non-verbal Behavior: 
 In my project, I will plan to implement two non-verbal behaviors. 
