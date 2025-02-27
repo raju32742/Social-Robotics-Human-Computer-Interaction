@@ -41,25 +41,24 @@ In my project, I will plan to implement two non-verbal behaviors.
 
 <h3>5. Pretend User Study (Study Design)  </h3>
 
-### Experimental Setup
+ <h4>Experimental Setup </h4>	
 - The Webots simulation environment will be used to create a virtual caregiving scenario.
 - The simulated robot, NAO, will be programmed with gesture and touch interactions.
 
-### Procedure
+ <h4>Procedure</h4>
 - Each participant will interact with the virtual NAO robot in the virtual caregiving scenario.
 - The robot will communicate with the virtual elderly through gestures and touch, and it will pretend to check their health.
 - During the robot's entertainment gesture routine:
   - If an elderly individual gives a "thumbs up," it signifies happiness.
   - A "thumbs down" indicates dissatisfaction.
   - A "halt" gesture signifies a request to stop.
-
-### Data Collection
+  
+ <h4> Data Collection</h4>
 - Data will be collected on the frequency and types of gestures and touch interactions performed by the virtual NAO, along with participants' reactions.
 - Quantitative data will be gathered through online forms, where participants rate the robot's gestures, touch interactions, and satisfaction.
 - Qualitative data will capture participants' feelings and perceptions of NAO's behavior.
 
-### Research Questions
-
+ <h4>Research Questions</h4>
 ### Research Question 1: Perception of Gesture
 - **Question:** How satisfied are you with the gestures made by NAO during interactions?
   - **Scale:** 1 (Strongly Dissatisfied) - 5 (Strongly Satisfied)
