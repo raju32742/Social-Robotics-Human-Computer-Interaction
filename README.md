@@ -14,6 +14,6 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
 </div>
 
 <div align="center">
-    <img src="Image/Fig1.png" alt="Alt text" title="Hover text" height="400" width="500"/>
-    <p><em>Webot simulation of old age home or apartment with Nao robot as caregiver for monitoring the health condition of elderly people.</em></p>
+    <img src="Image/Fig1.png" alt="Alt text" title="Hover text" height="500" width="500"/>
+    <p><em>Figure 1: Webot simulation of old age home or apartment with Nao robot as caregiver for monitoring the health condition of elderly people.</em></p>
 </div>
