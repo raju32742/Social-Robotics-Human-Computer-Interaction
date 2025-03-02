@@ -1,5 +1,5 @@
 # ECE-750-Project
-<h1 align="center">Exploring Humanoid Robot Integration for Elder Care: A Study on Non-verbal Interaction and Health Monitoring with NAO</h1>
+<h1 align="center">Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers</h1>
 
 <p align="center">
   <strong>S M Taslim Uddin Raju</strong><br>
