@@ -18,7 +18,7 @@ As the population of older adults increases, so will the need for both human and
     <p><em>Figure 1: Webot simulation of old age home or apartment with Nao robot as caregiver for monitoring the health condition of elderly people.</em></p>
 </div>
 
-![Video](video/Positive Gesture.mov?raw=true)
+![Video](video/Positive%20Gesture.mov?raw=true)
 
 
 ### Refereneces:
