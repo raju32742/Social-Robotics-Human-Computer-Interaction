@@ -18,10 +18,12 @@ As the population of older adults increases, so will the need for both human and
     <p><em>Figure 1: Webot simulation of old age home or apartment with Nao robot as caregiver for monitoring the health condition of elderly people.</em></p>
 </div>
 
-![Video](Video/Positive%20Gesture.mp4?raw=true)
 
+### Positive Gestures
 https://github.com/user-attachments/assets/0b55f0b0-d253-412c-96bb-07624211401b
 
+### Negative Gestures
+https://github.com/user-attachments/assets/66082916-48a2-48de-9da6-4c1cf8778b69
 ### Refereneces:
 
 **Cite:** Please cite the following papers. If you find this code useful in your research, please consider citing.
