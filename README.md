@@ -10,10 +10,26 @@
 
 ## Abstract
 <div align="justify">
-Captioning Whole Slide Images (WSIs) for pathological analysis is an essential but not extensively explored aspect of computer-aided pathological diagnosis. Challenges arise from insufficient datasets and the effectiveness of model training. Generating automatic caption reports for various gastric adenocarcinoma images is another challenge. In this paper, we introduce a hybrid method referred to as TransUAAE-CapGen to generate histopathological captions from WSI patches. The TransUAAE-CapGen architecture consists of a hybrid UNet-based Advereasrial Autoencoder (AAE) for feature extraction and a transformer for caption generation. The hybrid UNet-based AAE extracted complex tissue properties from histopathological patches, transforming them into low-dimensional embeddings. The embeddings are then fed into the transformer to generate concise captions. Our proposed method is validated using the PatchGastricADC22 dataset. The TransUAAE-CapGen model provides the best estimated accuracy of  BLEU-4 = 86.8%, METEOR = 59.6%, a ROUGE = 89.3%, and CIDEr = 7.72%. Experimental analysis indicates that the TransUAAE-CapGen architecture outperforms the traditional LSTM-based model for the caption generation task. Our findings reveal that the proposed architecture can effectively generate accurate and precise reports for medical image analysis.
+As the population of older adults increases, so will the need for both human and robot care providers. While traditional practices involve hiring human caregivers to serve meals and attend to basic needs, older adults often require continuous companionship and health monitoring. However, hiring human caregivers for this job costs a lot of money. However, using a robot like Nao could be cheaper and still helpful. This study explores the integration of humanoid robots, particularly Nao, in health monitoring and caregiving for older adults. Using a mixed-methods approach with a within-subject factorial design, we investigated the effectiveness of nonverbal communication modalities, including touch, gestures, and LED patterns, in enhancing human-robot interactions. Our results indicate that Nao's touch-based health monitoring was well-received by participants, with positive ratings across various dimensions. LED patterns were perceived as more effective and accurate compared to hand and head gestures. Moreover, longer interactions were associated with higher trust levels and perceived empathy, highlighting the importance of prolonged engagement in fostering trust in human-robot interactions. Despite limitations, our study contributes valuable insights into the potential of humanoid robots to improve health monitoring and caregiving for older adults.
 </div>
 
 <div align="center">
     <img src="Image/Fig1.png" alt="Alt text" title="Hover text" height="500" width="500"/>
     <p><em>Figure 1: Webot simulation of old age home or apartment with Nao robot as caregiver for monitoring the health condition of elderly people.</em></p>
 </div>
+
+
+### Refereneces:
+
+**Cite:** Please cite the following papers. If you find this code useful in your research, please consider citing.
+```
+@misc{raju2025enhancinghumanrobotinteractionhealthcare,
+      title={Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers}, 
+      author={S M Taslim Uddin Raju},
+      year={2025},
+      eprint={2503.16469},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2503.16469}, 
+}
+```
