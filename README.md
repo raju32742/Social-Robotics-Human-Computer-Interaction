@@ -1,5 +1,5 @@
 # ECE-750-Project
-<h1 align="center">Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers</h1>
+<h1 align="center">NAO Robot: Caregivers</h1>
 
 <p align="center">
   <strong>S M Taslim Uddin Raju</strong><br>
@@ -24,17 +24,4 @@ https://github.com/user-attachments/assets/0b55f0b0-d253-412c-96bb-07624211401b
 
 ### Negative Gestures
 https://github.com/user-attachments/assets/66082916-48a2-48de-9da6-4c1cf8778b69
-### Refereneces:
 
-**Cite:** Please cite the following papers. If you find this code useful in your research, please consider citing.
-```
-@misc{raju2025enhancinghumanrobotinteractionhealthcare,
-      title={Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers}, 
-      author={S M Taslim Uddin Raju},
-      year={2025},
-      eprint={2503.16469},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2503.16469}, 
-}
-```
